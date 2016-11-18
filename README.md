@@ -1,3 +1,3 @@
 # MyMVCApp
 
-A test projected for Jenkins build
+A test projected for Jenkins build.  It's not much.  Really, it' not much...
